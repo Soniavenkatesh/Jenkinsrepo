@@ -516,7 +516,6 @@
                 </executions>
             </plugin>
 	
-                </plugins>
             </reporting>
         </profile>
     </profiles>
